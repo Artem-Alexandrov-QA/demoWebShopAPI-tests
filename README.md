@@ -1,0 +1,1 @@
+# Автотесты на сайт  [demowebshop](https://demowebshop.tricentis.com/) с использованием библиотеки [REST-Assured](https://github.com/rest-assured/rest-assured/wiki/usage)
